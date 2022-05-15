@@ -3,6 +3,8 @@ _site/
 
 ### Node ###
 node_modules/
+.vscode/
+_site
 
 ### VisualStudioCode ###
 .vscode/*
